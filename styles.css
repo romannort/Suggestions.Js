@@ -1,0 +1,10 @@
+.autocomplete-list > div:hover{
+  background: #f0f0f0;
+}
+
+.autocomplete-list > div{
+	margin: 5px 2px;
+}
+.selected{
+	background: #00ffff;
+}
