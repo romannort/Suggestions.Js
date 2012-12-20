@@ -1,5 +1,5 @@
 $(document).ready(function(e){
-  $("#input-field").autocomplete(
+  $("#input-field").suggestions(
 	{
 		
 		"background": "white",
